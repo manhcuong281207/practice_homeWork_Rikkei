@@ -1,0 +1,1 @@
+create database ss9_lt1db
