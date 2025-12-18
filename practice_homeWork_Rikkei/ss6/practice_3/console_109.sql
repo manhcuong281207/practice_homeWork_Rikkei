@@ -1,0 +1,1 @@
+create database ss6_lt3db

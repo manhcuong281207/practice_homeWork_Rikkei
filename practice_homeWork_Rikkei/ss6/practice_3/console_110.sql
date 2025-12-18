@@ -1,0 +1,1 @@
+create schema ss6_lt3
