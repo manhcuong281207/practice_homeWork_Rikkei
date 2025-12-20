@@ -1,0 +1,1 @@
+create database ss12_lt4db
